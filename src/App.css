@@ -1,0 +1,62 @@
+.form {
+  padding: 2rem;
+  border-radius: 2%;
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  background-color: rgb(247, 246, 246);
+  width:30%;
+  margin-left: 500px;
+  margin-top: 50px;
+
+}
+
+
+input{
+  border:rgb(247, 246, 246);
+  width: 95.5%;
+  height:90%;
+  font-size: larger;
+}
+
+textarea{
+  border:rgb(247, 246, 246);
+  width:95.5%;
+  height:400%;
+  font-size: larger;
+}
+
+button{
+  margin-left: 410px;
+  margin-top: 30px;
+}
+
+.Header{
+  padding: 2rem;
+  border-radius: 2%;
+  border: 2px solid hsl(0, 0%, 90%);
+  text-align: left;
+  background-color: rgb(247, 246, 246);
+  margin-top: 50px;
+  margin-left: 27px;
+  float: left;
+  width: 300px;
+  height: auto;
+  padding: 20px;
+}
+.b1{
+  margin-left: 250px;
+  margin-top: 30px;
+
+}
+.topnav {
+  background-color:rgb(237, 198, 3);
+  overflow: hidden;
+}
+.topnav p {
+  float: left;
+  color: #faf5f5;
+  text-align: center;
+  padding-left: 10px;
+  text-decoration: none;
+  font-size: 20px;
+}
